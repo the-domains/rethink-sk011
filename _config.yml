@@ -1,0 +1,14 @@
+layout_spectrum: 0.1602718192152679
+typography_spectrum: 0.7150627393275499
+color:
+  brandStrength: 0.5285301306284964
+  lightness: 0.3884680278133601
+  saturation: 0.04768953495658934
+  rhythmicContrast: 0.8442835542373359
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+name: Rethink
