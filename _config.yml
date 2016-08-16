@@ -1,4 +1,3 @@
-layout_spectrum: 0.1602718192152679
 typography_spectrum: 0.7150627393275499
 color:
   brandStrength: 0.5285301306284964
@@ -6,9 +5,11 @@ color:
   saturation: 0.04768953495658934
   rhythmicContrast: 0.8442835542373359
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+layout_spectrum: 0.1602718192152679
 name: Rethink
+title: 'New Ideas, New Ways to Think'
