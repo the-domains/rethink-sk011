@@ -12,5 +12,9 @@ color:
     - '#FF7F66'
 layout_spectrum: 0.1602718192152679
 name: Rethink
+navigation:
+  - name: BioLite PowerLight Mini
+    id: aca32533-a42a-44b5-b9a7-d3b2d1e22ee0
+    type: content
 title: 'New Ideas, New Ways to Think'
 description: For People Who Are Old Enough and DO Know Better
