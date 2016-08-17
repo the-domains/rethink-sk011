@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-16T17:01:42.030Z'
+datePublished: '2016-08-17T02:00:54.485Z'
 sourcePath: _posts/2016-04-15-biolite-powerlight-mini.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/tech/biolite-powerlight-mini-portable-utility-light'
-hasPage: false
+hasPage: true
 keywords:
   - biolite
   - powerlight
@@ -17,7 +16,7 @@ keywords:
   - un-clunky
 related: []
 author: []
-dateModified: '2016-08-16T17:01:40.862Z'
+dateModified: '2016-08-17T02:00:53.930Z'
 title: BioLite PowerLight Mini
 app_links: []
 publisher:
@@ -35,6 +34,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: biolite-powerlight-mini/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
